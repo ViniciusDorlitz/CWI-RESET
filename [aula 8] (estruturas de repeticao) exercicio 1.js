@@ -13,9 +13,9 @@ console.log(quantidadeDeTimes)
 
 
  artesMarciais = ["kickboxing", "jiu-jitsu", "muay-thai", "karate", "judo"]
-
- quantidadeDeArtesMarciais = artesMarciais.length
-
- console.log(quantidadeDeArtesMarciais)
-
- console.log(artesMarciais)
+ posicao = 0
+ 
+ while (posicao < artesMarciais.length) {
+     console.log(artesMarciais[posicao])
+     posicao++
+ }
