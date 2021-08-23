@@ -19,3 +19,7 @@ console.log(quantidadeDeTimes)
      console.log(artesMarciais[posicao])
      posicao++
  }
+
+ numeros =  [1 , 2 ,3 ,4 ]
+
+ media = n 
